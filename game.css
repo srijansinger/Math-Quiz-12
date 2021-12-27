@@ -1,0 +1,58 @@
+body
+{
+	background-image: url("https://parade.com/wp-content/uploads/2020/01/stay-positive-quotes.jpg");
+	background-size: cover;
+	background-position: fixed;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: pink;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+#bgtw1{
+	width: 200px;
+	background-color: cyan;
+	padding: 15px;
+	border-radius: 10px;
+
+}
+.bg
+{
+	background-image: url("https://image.shutterstock.com/image-vector/light-box-yellow-platform-on-260nw-557449324.jpg");
+	background-size: cover;
+	background-position: fixed;
+}
+
+
+h3,label{
+	color:cyan;
+}
+input{
+	background-color: lightskyblue;
+}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
